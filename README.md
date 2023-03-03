@@ -7,7 +7,7 @@ Arceus is a [Rust](https://www.rust-lang.org/) implementation of a dedicated [Re
 
 ---
 **Not intended for production use**
-Firstly and foremost, that's a learning project. There is no guarantee that it could be used in production. After being a "Reverse proxy user" for a while, I decided to give a step forward and understand their internal pieces deeply, and I'm convinced that the best way to understand something deeply is to build that thing.
+Firstly and foremost, that's a learning project. There is no guarantee that it could be used in production. After being a "Reverse proxy user" for a while, I decided to give a step forward and understand their internal pieces deeply. I'm convinced that the best way to understand something deeply is to build that thing, and that's why I started this project.
 
 If you're looking for a production-ready reverse proxy, I do recommend not reinventing the wheel and picking up a battle-tested option. There are loads of them out there, such as [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/), [Caddy](https://caddyserver.com/docs/quick-starts/reverse-proxy), [Traefik](https://doc.traefik.io/traefik/getting-started/quick-start/), [and so on](https://github.com/dariubs/awesome-proxy). If you're a Rust lover and want something written in Rust, Why not go ahead and give a try to the [Sōzu](https://github.com/sozu-proxy/sozu) project?
 
