@@ -1,4 +1,4 @@
-use anyhow::{Result, Context, Ok};
+use anyhow::{Result, Context};
 use hyper::{Body, Client};
 
 #[tokio::main]
